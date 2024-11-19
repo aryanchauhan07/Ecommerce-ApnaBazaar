@@ -2,6 +2,7 @@
 ApnaBazaar is an e-commerce application developed in C++ using Object-Oriented Programming (OOP) principles. This project demonstrates how core OOP concepts like classes, objects, inheritance, and file handling can be applied to create a functional and interactive e-commerce platform.
 
 Features:
+
 Category Browsing: Users can explore items categorized as Fashion, Electronics, Books, and Home & Kitchen.
 Add to Cart: Allows users to add selected items to their shopping cart with ease.
 Purchase Items: Option to buy items instantly with a seamless process.
